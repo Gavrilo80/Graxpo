@@ -80,3 +80,15 @@ h1,h2,h3,h4,h5,h6{
     background: #fff;
 }
 
+/*HELOO*/
+.hello{
+    background-size: cover;
+    background-position: center;
+}
+
+.hello article{
+    height: 100vh;
+    display: table-cell;
+    vertical-align: middle;
+    min-width: 1%;
+}
